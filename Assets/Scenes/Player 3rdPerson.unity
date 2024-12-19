@@ -187,8 +187,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 293706565}
-  m_LocalRotation: {x: -0.057074696, y: 0.6931477, z: -0.055221636, w: -0.7164073}
-  m_LocalPosition: {x: 20.160147, y: 4.007189, z: 5.667883}
+  m_LocalRotation: {x: -0.09636519, y: 0.699478, z: -0.09607657, w: -0.7015794}
+  m_LocalPosition: {x: 35.385475, y: 13.659869, z: -0.45927858}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -207,11 +207,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400038, guid: 2aae48e141d783f499156867c53be6a4, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.5347332
+      value: 0.5344751
       objectReference: {fileID: 0}
     - target: {fileID: 400038, guid: 2aae48e141d783f499156867c53be6a4, type: 3}
       propertyPath: m_LocalRotation.z
-      value: -0.5059385
+      value: -0.50569427
+      objectReference: {fileID: 0}
+    - target: {fileID: 400038, guid: 2aae48e141d783f499156867c53be6a4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.47292072
+      objectReference: {fileID: 0}
+    - target: {fileID: 400038, guid: 2aae48e141d783f499156867c53be6a4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.48472232
       objectReference: {fileID: 0}
     - target: {fileID: 400052, guid: 2aae48e141d783f499156867c53be6a4, type: 3}
       propertyPath: m_LocalPosition.x
@@ -223,7 +231,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400052, guid: 2aae48e141d783f499156867c53be6a4, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -2.023107
+      value: -20.58
       objectReference: {fileID: 0}
     - target: {fileID: 400052, guid: 2aae48e141d783f499156867c53be6a4, type: 3}
       propertyPath: m_LocalRotation.x
@@ -273,6 +281,10 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 958526c41d5ca3341bc990638952af7a, type: 2}
+    - target: {fileID: 9500000, guid: 2aae48e141d783f499156867c53be6a4, type: 3}
+      propertyPath: m_WarningMessage
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2aae48e141d783f499156867c53be6a4, type: 3}
 --- !u!1 &1085669666
